@@ -11,14 +11,14 @@
 - [Author](#author)
 
 ### Screenshot
-![Screenshot of the project](/starter-code/assets/scDekstop.png)
+![Screenshot of the project](/assets/scDekstop.png)
 
-![Screenshot of the project](/starter-code/assets/scTablet.png)
-![Screenshot of the project](/starter-code/assets/scMobile.png)
+![Screenshot of the project](assets/scTablet.png)
+![Screenshot of the project](assets/scMobile.png)
 
 ### Links
-- **Web URL:** [https://github.com/username/project-repo.git]
-- **Live Site URL:** [https://username.github.io/project-repo/]
+- **Web URL:** [https://github.com/jiehlarae/Art-Gallery.git]
+- **Live Site URL:** [https://jiehlarae.github.io/Art-Gallery/]
 
 ### Built with
 - **HTML**
